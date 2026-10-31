@@ -74,3 +74,8 @@ https://the-internet.herokuapp.com/login
 Muhammad Talha
 
 Software Engineering Student | Aspiring QA Engineer
+
+## Test Execution Screenshots
+
+### Automated Test Results
+![Test Results](screenshots/test-results.png)
